@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Urban Dictionary</string>
+    <string name="hint_search">Search</string>
+    <string name="button_search">Search</string>
+    <string name="definitionText">Definitios</string>
+    <string name="tag_order_down">Desc</string>
+    <string name="tag_order_up">Asc</string>
+</resources>
