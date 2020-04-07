@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.test.ext:junit:1.1.2-alpha04@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7153a69160a89735b3091a3a5f83b998/junit-1.1.2-alpha04/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7153a69160a89735b3091a3a5f83b998/junit-1.1.2-alpha04/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test.ext/junit/1.1.2-alpha04/2a8e647341da39c58b612d9efcd7f406bd6a1e9b/junit-1.1.2-alpha04-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test.ext/junit/1.1.2-alpha04/1c9fc3b446f57fc08350d6c6968326e93d541511/junit-1.1.2-alpha04-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

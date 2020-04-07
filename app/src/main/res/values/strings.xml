@@ -1,8 +1,13 @@
 <resources>
-    <string name="app_name">Urban Dictionary</string>
-    <string name="hint_search">Search</string>
-    <string name="button_search">Search</string>
-    <string name="definitionText">Definitios</string>
-    <string name="tag_order_down">Desc</string>
-    <string name="tag_order_up">Asc</string>
+  <string name="app_name">Urban Dictionary</string>
+  <string name="hint_search">Search</string>
+  <string name="button_search">Search</string>
+  <string name="definitionText">Definitios</string>
+  <string name="tag_order_down">Desc</string>
+  <string name="tag_order_up">Asc</string>
+  <string name="title_activity_splash">SplashActivity</string>
+
+  <!-- Test -->
+  <string name="item_element_text">This is element #</string>
+
 </resources>
